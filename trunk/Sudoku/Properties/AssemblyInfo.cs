@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Sudoku")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Viatronix")]
+[assembly: AssemblyCompany("FDSA")]
 [assembly: AssemblyProduct("Sudoku")]
-[assembly: AssemblyCopyright("Copyright © Viatronix 2006")]
+[assembly: AssemblyCopyright("Copyright © FDSA 2006")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
